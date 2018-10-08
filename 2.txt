@@ -1,0 +1,13 @@
+2.txt
+a.c
+a.out
+arm1.sh
+arm2.sh
+armine.c
+armine.c~
+arm.sh
+arr2.sh
+arr2.sh~
+array1.sh
+hramanner
+Untitled Document~
